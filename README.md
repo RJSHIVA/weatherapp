@@ -1,4 +1,4 @@
-# weatherapp
+# description
  Welcome to our weather app! We provide up-to-date weather information for locations around the world.  With our app, you can:  Check current weather conditions, including temperature. Get accurate weather information. View weather information for multiple cities. Search for a city to get weather information. Whether you're planning a trip, organizing an outdoor event, or just curious about the weather, our app has got you covered!
 # Weather App
 
