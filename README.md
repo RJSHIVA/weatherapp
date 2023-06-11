@@ -3,7 +3,7 @@
 # Weather App
 
 This is a simple weather application that allows users to search for the current weather conditions in a specific city.
-![Weather App Screenshot](weatherapp/Screenshot 2023-06-11 211412.png)
+![Weather App Screenshot](Screenshot 2023-06-11 211412.png)
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
